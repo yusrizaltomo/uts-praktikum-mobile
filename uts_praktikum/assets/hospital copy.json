@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "productName": "Mouse Wireless Slim",
+      "productImage": "assets/gambar_produk_1.png",
+      "price": 26900,
+      "description": "Isi box: mouse dan mini receiver. Mouse canggih tanpa harus pusing dengan kabel!",
+      "stock": 15
+    },
+    {
+      "productName": "GALAX Geforce GTX 1650",
+      "productImage": "assets/gambar_produk_2.png",
+      "price": 2750000,
+      "description": "GPU Engine Specs:\nCUDA Cores 896\nBoost Clock (MHz) 1695\n\nMemory Specs:\nMemory Speed 8 Gbps\nMemory Interface Width 128-bit DDR6\nMemory Bandwidth (GB/sec) 128\nDisplay Support:\nMulti Monitor 3 Displays\nStandard Display Connectors DP 1.4, HDMI 2.0b, DVI-D\nStandard Graphics Card Dimensions:\nDimensions(with Bracket) 196*126*39 mm\nDimensions(without Bracket) 181*97*33 mm\nPower Specs:\nMaximum Graphics Card Power (W) 75W\nMinimum System Power Requirement (W) 300W",
+      "stock": 5
+    },
+    {
+      "productName": "SANEX SN-STB1801",
+      "productImage": "assets/gambar_produk_3.png",
+      "price": 2750000,
+      "description": "Kelengkapan barang: 1x Set Top Box, 1x Remote STB, 1x Kabel RCA, 1x Buku Panduan\n\nKeunggulan: Tersedia port HDMI dan RCA, Tersedia port loop out, Tersedia port USB untuk memutar film atau untuk dongle wifi, Support youtube & tiktok",
+      "stock": 3
+    },
+    {
+      "productName": "Samson SR-850",
+      "productImage": "assets/gambar_produk_4.png",
+      "price": 475000,
+      "description": "Samson SR850 salah satu headphones terbaik di kelasnya, dengan harga yang relatif sangat terjangkau, kamu bisa mendapatkan Studio Monitor Headphones berkelas, dengan karakter suara yang flat, tepat digunakan sebagai Studio Monitor baik untuk keperluan recording, Live Music, maupun untuk mendengarkan music di handphone atau komputer kamu.",
+      "stock": 10
+    },
+    {
+      "productName": "Audio Technica M40X",
+      "productImage": "assets/gambar_produk_5.png",
+      "price": 1280000,
+      "description": "he high-performance ATH-M40x professional headphones are tuned flat for incredibly accurate audio monitoring across an extended frequency range. Your studio experience is enhanced with superior sound isolation and swiveling earcups for convenient one-ear monitoring. Engineered with pro-grade materials and robust construction, the M40x excels in professional studio tracking and mixing, as well as DJ monitoring.",
+      "stock": 5
+    },
+    {
+      "productName": "Monitor LED LG 22",
+      "productImage": "assets/gambar_produk_6.png",
+      "price": 1279000,
+      "description": "Feature\nJenis Panel TN\nColor Gamut (CIE1931) NTSC 72%\nColor Depth (Number of Colors) 16.7M Colors\nPixel Pitch (mm) 0.2745 mm x 0.2745 mm\nResponse Time (GTG) 1ms\nAspect Ratio 16:9\nResolution 1920 x 1080\nBrightness 250cd/m2 (Typ.) 200cd/m2 (Min.)\nContrast Ratio 1000:1 (Typ), Mega\nViewing Angle 178/178\nSurface Treatment Anti glare, 3H\n",
+      "stock": 4
+    }
+  ]
+}
